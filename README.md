@@ -1,7 +1,6 @@
 # วิธีการใช้งาน Application
 Application นี้เขียนด้วยภาษา Swift โดยใช้ UIKIT สามารถทดสอบ Application ได้ผ่านทางโปรแกรม Xcode โดยสิ่งที่ใช้ในการทำ Application นี้ เช่น การเชื่อมต่อ API  การรับค่าจาก Text Field การใช้ Button การใช้ Table View, Scroll View,  Auto Layout
-โดยการทำงาน Application หลักๆคือ มีระบบที่คัดสรร ให้แต่ละสถาบันใน
-4 king มีคนเฉลี่ยเท่าๆกัน
+โดยการทำงาน Application หลักๆคือ มีระบบที่คัดสรร ให้แต่ละสถาบันใน 4 king มีคนเฉลี่ยเท่าๆกัน
 โดย Application ของเราจะสามารถใช้งานหลักๆได้ 3 รูปแบบ
 1. ใส่จำนวนคนแล้ว Application จะเชื่อม API แล้วสุ่มชื่อคนมาให้
 2. Application จะสุ่มจำนวนคน และ เชื่อม API สุ่มชื่อคนมาให้
